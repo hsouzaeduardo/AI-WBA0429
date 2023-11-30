@@ -1,7 +1,7 @@
 import os
 import azure.cognitiveservices.speech as speechsdk
 
-speech_key, service_region = "d86c4ca1fc3840b7918cf0032e6ce94d", "eastus"
+speech_key, service_region = "[Chave do Serviço]", "[LocalDoServiço]"
 # Cria uma configuração com a chave e a região
 speech_config = speechsdk.SpeechConfig(subscription=speech_key, region=service_region)
     
