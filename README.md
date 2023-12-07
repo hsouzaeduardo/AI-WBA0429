@@ -1,2 +1,2 @@
-# COGNA_WBA0429
+# WBA0429
 Repo Aulas de IA
